@@ -1,13 +1,13 @@
 header:
   - titles:
-      en:       Archive
-      zh:       归档
-      zh-Hans:  归档
+      en:       Homepage
+      zh:       博客主页
+      zh-Hans:  博客主页
       zh-Hant:  歸檔
-    url:        /archive.html
+    url:        /
   - titles:
-      en:       About
-      zh:       关于
-      zh-Hans:  关于
+      en:       NewSky Security
+      zh:       青天科技主站
+      zh-Hans:  青天科技主站
       zh-Hant:  關於
-    url:        /about.html
+    url:        https://cn.newskysecurity.com/

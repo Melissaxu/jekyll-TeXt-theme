@@ -1,8 +1,34 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="24px" height="24px" viewBox="0 0 24 24">
-<style type="text/css">
-	.st0{fill:#666666;}
-</style>
-<path class="st0" d="M1.7,22.3c5.7-5.7,11.3-5.7,17,0c3.3-3.3,3.5-5.3,0.8-6c2.7,0.7,3.5-1.1,2.3-5.6s-3.3-5.2-6.3-2.1
-	c3-3,2.3-5.2-2.1-6.3S7,1.8,7.7,4.6C7,1.8,5,2.1,1.7,5.3C7.3,11,7.3,16.7,1.7,22.3"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="102px" viewBox="0 0 102 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Desktop HD</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="26.5764583%" y1="7.75862377%" x2="83.8149263%" y2="110.767273%" id="linearGradient-1">
+            <stop stop-color="#227FDC" offset="0%"></stop>
+            <stop stop-color="#1677D1" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="13 0 38.3850267 48 60 48 34.4893048 0"></polygon>
+        <linearGradient x1="60.7978897%" y1="-8.00760421%" x2="3.92528034%" y2="95.8815539%" id="linearGradient-4">
+            <stop stop-color="#46B6FA" offset="0%"></stop>
+            <stop stop-color="#49C5FB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="3.60132334%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#4696FF" offset="0%"></stop>
+            <stop stop-color="#47C8FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1134.000000, -1262.000000)">
+            <g id="Group" transform="translate(1136.000000, 1292.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Path-3" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <polygon id="Path-4" fill="#155BCA" mask="url(#mask-3)" points="37 48 48.9230769 22 52 30.2038835"></polygon>
+                <polygon id="Path" fill="url(#linearGradient-4)" points="12.0522388 0 0 38 34 0"></polygon>
+                <polygon id="Path-2" fill="url(#linearGradient-5)" points="66.4810127 0 38 48 59.7721519 48 98 0"></polygon>
+            </g>
+        </g>
+    </g>
 </svg>
